@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Legengs musicss</title>
+ </head>
+ <body>
+   <p class = "Walk"></p>
+   <h1 class = "Pantera"></p>
+   <style>
+    .p {
+       font-size: 12px;
+       font-family: Times New Roman, Futura, serif;
+    }
+   .h1 {
+      font-size: 12px;
+      font-family: Times New Roman, Futura, serif;
+      font-weight: bold;
+   }
+</style> 
+   <form enctype="multipart/index.html/style.css>
+    <h1>One Metallica</h1>
+    <p>Playing on drums</p>
+  </form> 
+ </body>
+</html>
